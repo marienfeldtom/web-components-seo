@@ -3,6 +3,8 @@
 
 This website tests how standard and custom HTML tags are indexed by Google under different circumstances.
 
+Fork of [leofavre/web-components-seo](https://leofavre.github.io/web-components-seo/) from 2019 with updated restults from 2024.
+
 
 ## Standard HTML
 
