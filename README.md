@@ -1,4 +1,4 @@
-# Web components SEO
+# Web components SEO 2024
 ### Testing indexability of web components.
 
 This website tests how standard and custom HTML tags are indexed by Google under different circumstances.
